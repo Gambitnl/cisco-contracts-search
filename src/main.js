@@ -47,7 +47,7 @@ const mockLines = {
 // Auth Logic (OAuth PKCE)
 // ==========================================
 const CLIENT_ID = '95944116-2495-442b-b82b-092928549302';
-const REDIRECT_URI = 'http://localhost:3000/callback';
+const REDIRECT_URI = 'https://gambitnl.github.io/cisco-contracts-search/';
 const AUTH_URL = 'https://id.cisco.com/oauth2/default/v1/authorize';
 const TOKEN_URL = 'https://id.cisco.com/oauth2/default/v1/token';
 const SCOPES = 'openid profile';
